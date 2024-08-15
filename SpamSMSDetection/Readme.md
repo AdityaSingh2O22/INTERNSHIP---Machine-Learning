@@ -1,4 +1,4 @@
-#Spam SMS Detection
+# Spam SMS Detection
 
 Code Explanation :
 
@@ -35,10 +35,10 @@ Code Explanation :
 This code represents a typical pipeline for building and evaluating a text classification model for spam SMS detection. Additional preprocessing steps and hyperparameter tuning may be required to optimize model performance for specific datasets.
 
 
+## About Model
 
 
-
-The Multinomial Naive Bayes classifier is commonly used in text classification tasks, such as spam detection, for several reasons:
+The **Multinomial Naive Bayes classifier** is commonly used in text classification tasks, such as spam detection, for several reasons:
 
 1. **Efficiency**: Multinomial Naive Bayes (MNB) is computationally efficient and can handle large datasets with many features, making it suitable for text classification, where the feature space can be high-dimensional.
 
